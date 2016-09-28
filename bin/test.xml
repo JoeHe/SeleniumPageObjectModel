@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="JenkinsSuite" parallel="false">
+  <listeners>
+    <listener name="com.jh.seleniumpom.utility.CustomListener" />
+  </listeners>
+  
+  <test name="LogInTest">
+    <classes>
+      <class name="com.jh.seleniumpom.testcases.JenkinsTestLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

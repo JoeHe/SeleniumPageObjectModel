@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7711" started-at="2016-09-07T10:36:28Z" finished-at="2016-09-07T10:36:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7711" started-at="2016-09-07T10:36:28Z" finished-at="2016-09-07T10:36:36Z">
+      <class name="com.jh.seleniumpom.testcases.JenkinsTestLogin">
+        <test-method status="PASS" signature="instantiateDriverObject()[pri:0, instance:com.jh.seleniumpom.testcases.JenkinsTestLogin@6d8a00e3]" name="instantiateDriverObject" is-config="true" duration-ms="16" started-at="2016-09-07T03:36:28Z" finished-at="2016-09-07T03:36:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiateDriverObject -->
+        <test-method status="PASS" signature="JenkinsTestErrLogin()[pri:0, instance:com.jh.seleniumpom.testcases.JenkinsTestLogin@6d8a00e3]" name="JenkinsTestErrLogin" duration-ms="5449" started-at="2016-09-07T03:36:28Z" finished-at="2016-09-07T03:36:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JenkinsTestErrLogin -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.jh.seleniumpom.testcases.JenkinsTestLogin@6d8a00e3]" name="clearCookies" is-config="true" duration-ms="43" started-at="2016-09-07T03:36:34Z" finished-at="2016-09-07T03:36:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="JenkinsTestMapuserLogin()[pri:0, instance:com.jh.seleniumpom.testcases.JenkinsTestLogin@6d8a00e3]" name="JenkinsTestMapuserLogin" duration-ms="2124" started-at="2016-09-07T03:36:34Z" finished-at="2016-09-07T03:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JenkinsTestMapuserLogin -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.jh.seleniumpom.testcases.JenkinsTestLogin@6d8a00e3]" name="clearCookies" is-config="true" duration-ms="71" started-at="2016-09-07T03:36:36Z" finished-at="2016-09-07T03:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="closeDriverObjects()[pri:0, instance:com.jh.seleniumpom.testcases.JenkinsTestLogin@6d8a00e3]" name="closeDriverObjects" is-config="true" duration-ms="1125" started-at="2016-09-07T03:36:36Z" finished-at="2016-09-07T03:36:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverObjects -->
+      </class> <!-- com.jh.seleniumpom.testcases.JenkinsTestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
